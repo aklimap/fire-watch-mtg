@@ -1,4 +1,4 @@
-name: mtg-watch
+yamlname: mtg-watch
 
 on:
   schedule:
